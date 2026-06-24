@@ -2,7 +2,7 @@
 
 A full autonomous-driving pipeline for a differential-drive **Puzzlebot** running **ROS 2 Humble** on a Jetson board. The robot follows a line, detects pedestrian crosswalks, classifies traffic lights, and reacts to road signs in real time using a custom **YOLOv4-tiny model accelerated with NVIDIA TensorRT (FP16)**.
 
-Developed as a final project at Tecnológico de Monterrey.
+Developed as a final project at Tecnológico de Monterrey, with Arturo Balboa, Oscar de la Rosa, Angel Hernandez, **Emiliano Niño**, and Rigoberto Soto
 
 ---
 
